@@ -102,7 +102,7 @@ is a VS Code extension allowing to view GoogleTest in a tree view and run/debug
 your tests.
 
 [C++ TestMate](https://github.com/matepek/vscode-catch2-test-adapter) is a VS
-Code extension allowing to view GoogleTest in a tree view and run/debug your
+Code extension allowing you to view GoogleTest in a tree view and run/debug your
 tests.
 
 [Cornichon](https://pypi.org/project/cornichon/) is a small Gherkin DSL parser
